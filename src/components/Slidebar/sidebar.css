@@ -1,0 +1,10 @@
+/* Your existing styles */
+
+/* Media query for small screens */
+@media only screen and (max-width: 600px) {
+    .sidebarfoot {
+      display: none; /* Hide the header for small screens */
+      color: aquamarine;
+    }
+  }
+  

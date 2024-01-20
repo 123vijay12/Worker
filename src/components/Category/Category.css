@@ -1,0 +1,21 @@
+#category {
+    width: 290px;
+    height: 300px;
+    background-color: #B56576;
+   
+}
+
+#category #cat-heading{
+    text-align: center;
+    background-color:  #E56B6F;
+    margin-top: -4px;
+}
+
+#category #icon{
+     /* border: 5px solid rgb(50, 187, 205);  */
+    font-size:  xx-large;
+}
+#category #cat-description{
+  /* border: 2px solid red;  */
+ max-height: fit-content;
+}

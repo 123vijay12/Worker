@@ -1,0 +1,17 @@
+body{
+  background: -webkit-linear-gradient(left, #ffffff, #95725d52,#b06b3aa4);
+}
+#main-container{
+    border: 2px solid rgb(43, 144, 23);
+}
+
+
+@media (min-width: 768px) {
+    #main-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    
+    }
+  }
+  
