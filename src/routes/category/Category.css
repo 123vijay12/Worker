@@ -1,0 +1,22 @@
+#category {
+    background-color:rgb(81, 47, 42);
+   border-radius: 7cm;
+}
+
+#category #cat-heading{
+    text-align: center;
+    margin-top: -4px;
+}
+
+#category #icon{
+     /* border: 5px solid rgb(50, 187, 205);  */
+    font-size:  xx-large;
+}
+#category #cat-description{
+  /* border: 2px solid red;  */
+ max-height: fit-content;
+}
+.link-cat{
+    text-decoration: none;
+    color: #ffffffc6;
+}

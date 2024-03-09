@@ -1,0 +1,10 @@
+
+#category h3,
+#category h6,
+#category p {
+  color: rgb(210, 210, 216);
+}
+
+#category i {
+  color: rgb(220, 220, 229); /* Adjust as needed */
+}
